@@ -1,0 +1,11 @@
+# .gitignore
+
+# Ignore environment files
+.env
+
+# Ignore Node.js modules
+node_modules/
+
+# amplify
+.amplify
+amplifyconfiguration*
